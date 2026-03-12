@@ -2,7 +2,6 @@
 layout: single
 ---
 
-# National Camp 2025 Chess Tournaments
 
 ## National Camp 2025 Chess Tournament 1
 **Link:** [View Full Bracket on Challonge](https://challonge.com/x3m6ejlw)
